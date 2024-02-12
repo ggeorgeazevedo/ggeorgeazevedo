@@ -63,19 +63,9 @@
     <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nexpose-FFC107?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-QualysGuard-1976D2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Acunetix-FF9800?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nikto-4B0082?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Retina-3F51B5?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenSCAP-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wapiti-009688?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vuls-4A148C?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Arachni-008080?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Grabber-FFD700?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zed_Attack_Proxy-7B68EE?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netsparker-00BFFF?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-FF1493?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Skipfish-32CD32?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vega-800080?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-4682B4?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wfuzz-FF6347?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Websecurify-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
