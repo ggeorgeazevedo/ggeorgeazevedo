@@ -142,6 +142,3 @@
    | Penetration Testing                           |
    | Exploitation Techniques                       |
    | Social Engineering                            |
-
-
-![snake gif](https://github.com/ggeorgeazevedo/ggeorgeazevedo/blob/output/github-contribution-grid-snake.svg)
