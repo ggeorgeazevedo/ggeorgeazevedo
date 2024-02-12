@@ -129,6 +129,30 @@
     <img src="https://img.shields.io/badge/-LaZagne-FF7F50?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
+## Static Application Security Testing (SAST)
+
+<div>
+    <img src="https://img.shields.io/badge/-SonarQube-4CAF50?style=for-the-badge&logo=SonarQube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Veracode-009688?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Checkmarx-FF5722?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortify-FFC107?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Dynamic Application Security Testing (DAST)
+
+<div>
+    <img src="https://img.shields.io/badge/-AppScan-FF5722?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-4CAF50?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FFC107?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Software Composition Analysis (SCA)
+
+<div>
+    <img src="https://img.shields.io/badge/-Snyk-FFC107?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
 ## Skills
 
    | Skill                                         |
