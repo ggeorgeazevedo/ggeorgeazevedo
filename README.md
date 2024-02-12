@@ -82,16 +82,11 @@
     <img src="https://img.shields.io/badge/-John_the_Ripper-4B0082?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-ZAP-9ACD32?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autosploit-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Armitage-32CD32?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Empire-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sqlninja-FFD700?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerSploit-7B68EE?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Social_Engineer_Toolkit-00BFFF?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mimikatz-FFC107?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CANVAS-FF1493?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Weevely-32CD32?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Post Exploitation
