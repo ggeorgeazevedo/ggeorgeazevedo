@@ -1,6 +1,7 @@
 # Welcome! It's a pleasure to have you here! :facepunch:
 
 ![Gif no game no life](https://pa1.narvii.com/5892/917a4b9a37490acbe306638e1b9437a8a3150dd4_hq.gif)
+![snake gif](https://github.com/ggeorgeazevedo/ggeorgeazevedo/blob/output/github-contribution-grid-snake.svg)
 
 :moyai: I currently work as a Security Architect and other projects in Appsec, but I also have fun in Offensive Security projects.
 
@@ -125,8 +126,6 @@
     <img src="https://img.shields.io/badge/-Snyk-FFC107?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
 </div>
-
-![snake gif](https://github.com/ggeorgeazevedo/ggeorgeazevedo/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills
 
