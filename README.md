@@ -103,20 +103,8 @@
     <img src="https://img.shields.io/badge/-Mimikatz-FFC107?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Empire-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BloodHound-B22222?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cobalt_Strike-32CD32?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ghidra-FF4500?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Empire_PowerShell-FFD700?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Veil--Evasion-008080?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pupy-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-QuasarRAT-9932CC?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Impacket-FF6347?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rapid7_Metasploit-FF1493?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fgdump-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pentest_Box-8B0000?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Unicorn-4169E1?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LaZagne-FF7F50?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Static Application Security Testing (SAST)
