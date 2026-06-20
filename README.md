@@ -4,7 +4,7 @@
 
 **Cyber Security Engineer | AppSec | DevSecOps | Security Architect**
 
-🔐 Security Engineer at [Compass UOL](https://compassuol.com) — 4+ years in Cybersecurity<br/>
+🔐 Security Engineer at [Compass UOL](https://aircompany.ai/en/aws/) — 4+ years in Cybersecurity<br/>
 🎯 Open to roles as **Cybersecurity Engineer · AppSec · DevSecOps · Security Architect**<br/>
 🏫 Mentor at [Mente Binária](https://mentebinaria.com.br)<br/>
 📍 São Paulo / Curitiba / Remote (Brazil)
