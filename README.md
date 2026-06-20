@@ -1,144 +1,58 @@
-# Welcome! It's a pleasure to have you here! :facepunch:
+<h1 align="center">Hi, I'm George Azevedo 👋</h1>
 
-![Gif no game no life](https://pa1.narvii.com/5892/917a4b9a37490acbe306638e1b9437a8a3150dd4_hq.gif)
+<div align="center">
 
-:moyai: I currently work as a Security Architect and other projects in Appsec, but I also have fun in Offensive Security projects.
+**Cyber Security Engineer | AppSec | DevSecOps | Security Architect**
 
-:telescope: I'm looking to collaborate on security research and open source projects.
+🔐 Security Engineer at [Compass UOL](https://compassuol.com) — 4+ years in Cybersecurity<br/>
+🎯 Open to roles as **Cybersecurity Engineer · AppSec · DevSecOps · Security Architect**<br/>
+🏫 Mentor at [Mente Binária](https://mentebinaria.com.br)<br/>
+📍 São Paulo / Curitiba / Remote (Brazil)
 
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="George-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="George-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="George-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/_georgeazevedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:georgeluiz.a.d.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ggeorgeazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ggeorgeazevedo&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ggeorgeazevedo&layout=compact&langs_count=8&theme=midnight-purple" />
 </div>
 
-# Knowledge List of Cybersecurity Tools
-## Reconnaissance:
+---
 
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-E95645?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Recon--ng-EF5350?style=for-the-badge&logo=Recon-ng&logoColor=white" />
-    <img src="https://img.shields.io/badge/-theHarvester-4CAF50?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shodan-FF5722?style=for-the-badge&logo=Shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_dorks-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amass-9932CC?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SpiderFoot-009688?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sublist3r-FFA500?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Censys-FF69B4?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FOCA-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Maltego-00BFFF?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-hping-800080?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EyeWitness-4682B4?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-FF1493?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Masscan-008080?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Dmitry-FFD700?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wappalyzer-7B68EE?style=for-the-badge&logo=&logoColor=white" />
+## 🧰 Tools & Technologies
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Cloud Security**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Frameworks & Standards**
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_CSF-005288?style=for-the-badge&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+![ISO27001](https://img.shields.io/badge/ISO%2FIEC_27001-2F4F4F?style=for-the-badge&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS_Controls-1976D2?style=for-the-badge&logoColor=white)
+![SABSA](https://img.shields.io/badge/SABSA-6A0DAD?style=for-the-badge&logoColor=white)
+![TOGAF](https://img.shields.io/badge/TOGAF_Security-8B0000?style=for-the-badge&logoColor=white)
+
 </div>
 
-## Threat Modeling
+---
 
-<div>
-    <img src="https://img.shields.io/badge/-Threat_Modeling-FF5733?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DREAD_Score-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Attack_Tree-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-STRIDE_Model-00CED1?style=for-the-badge&logo=&logoColor=white" />
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggeorgeazevedo/)
+
 </div>
-
-## Vulnerability Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Nessus-64DD17?style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nexpose-FFC107?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-QualysGuard-1976D2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Retina-3F51B5?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenSCAP-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-4682B4?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wfuzz-FF6347?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Websecurify-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Exploration
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ExploitDB-FF9800?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Veil--Evasion-008080?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BeEF-8BC34A?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLMap-F44336?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-009688?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John_the_Ripper-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ZAP-9ACD32?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Empire-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sqlninja-FFD700?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerSploit-7B68EE?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Social_Engineer_Toolkit-00BFFF?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Post Exploitation
-
-<div>
-    <img src="https://img.shields.io/badge/-Meterpreter-3F51B5?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell_Empire-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Responder-2196F3?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mimikatz-FFC107?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Empire-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ghidra-FF4500?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Static Application Security Testing (SAST)
-
-<div>
-    <img src="https://img.shields.io/badge/-SonarQube-4CAF50?style=for-the-badge&logo=SonarQube&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Veracode-009688?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Checkmarx-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fortify-FFC107?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Dynamic Application Security Testing (DAST)
-
-<div>
-    <img src="https://img.shields.io/badge/-AppScan-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-4CAF50?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-FFC107?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Software Composition Analysis (SCA)
-
-<div>
-    <img src="https://img.shields.io/badge/-Snyk-FFC107?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Skills
-
-   | Skill                                         |
-   |-----------------------------------------------|
-   | Information Security                          |
-   | Security Architect                            |
-   | NIST (National Institute of Standards and Technology) |
-   | Vulnerability Assessment                      |
-   | OWASP                                         |
-   | Security Controls                             |
-   | Code Review                                   |
-   | Web Application Security                      |
-   | SDLC (Software Development Life Cycle)        |
-   | Penetration Testing                           |
-   | Exploitation Techniques                       |
-   | Social Engineering                            |
