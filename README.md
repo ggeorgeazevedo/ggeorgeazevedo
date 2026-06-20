@@ -15,7 +15,6 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ggeorgeazevedo&show_icons=true&theme=midnight-purple&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ggeorgeazevedo&layout=compact&langs_count=8&theme=midnight-purple" />
 </div>
 
 ---
